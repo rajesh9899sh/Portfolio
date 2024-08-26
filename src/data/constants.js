@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/rajesh9899sh",
   resume:
-    "https://drive.google.com/file/d/1A3viek96erH87Kcgh5fXbs-A3_zK9MXj/view?usp=sharing",
+    "https://drive.google.com/file/d/1uXzvo1VKW7AjIop0XbizvejUdeSCVcmC/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rajesh-sharma-955112210/",
   twitter: "https://twitter.com/RajeshShar9899",
   insta: "https://www.instagram.com/rajeshsharma989967/",
@@ -108,19 +108,19 @@ export const experiences = [
   {
     id: 0,
     img: "spark.png",
-    role: "Full Stack Developer Intern",
+    role: "Full Stack Developer",
     company: "The Spark Foundation",
     date: "Oct 2022 - Nov 2022",
-    desc: "Drove innovation and impact as a Full Stack Developer Intern at The Spark Foundation. Spearheaded the development of a cutting-edge Payment Gateway, empowering users to contribute seamlessly to the Wild Life Foundation. Crafting an intuitive user experience, I implemented a dynamic form requiring user credentials for a personalized touch. Not stopping there, I integrated a secure net banking option, ensuring a diverse range of payment methods for user convenience. Melding skills in HTML, CSS, JavaScript, and Node.js, I leveraged a full-stack approach to deliver a robust and user-friendly donation platform.",
+    desc: "Drove innovation and impact as a Full Stack Developer at The Spark Foundation. Spearheaded the development of a cutting-edge Payment Gateway, empowering users to contribute seamlessly to the Wild Life Foundation. Crafting an intuitive user experience, I implemented a dynamic form requiring user credentials for a personalized touch. Not stopping there, I integrated a secure net banking option, ensuring a diverse range of payment methods for user convenience. Melding skills in HTML, CSS, JavaScript, and Node.js, I leveraged a full-stack approach to deliver a robust and user-friendly donation platform.",
     skills: ["Html", "Css", "JavaScript", "Node Js"],
   },
   {
     id: 1,
     img: "/download.jpg",
-    role: "Frontend Engineer Intern",
+    role: "Frontend Engineer",
     company: "Big Oh Tech Pvt. Ltd",
     date: "Feb 2023 - Apr 2023",
-    desc: "Revolutionized the digital landscape as a Frontend Engineer Intern at Big Oh Tech Pvt. Ltd. Pioneered the creation of visually stunning and responsive web and mobile interfaces, showcasing an unwavering commitment to pixel-perfect design. Utilizing HTML 5, CSS, and Typescript, I transformed ideas into immersive user experiences. Collaborated seamlessly with the CMS team to seamlessly integrate dynamic content into the pages. Engaged with UI/UX experts, contributing to the enhancement of existing applications and bringing new design concepts to life through innovative components. Proficiently navigated a tech stack that included HTML, CSS, JavaScript, ReactJS, Material UI, Redux, and NodeJs.",
+    desc: "Revolutionized the digital landscape as a Frontend Engineer at Big Oh Tech Pvt. Ltd. Pioneered the creation of visually stunning and responsive web and mobile interfaces, showcasing an unwavering commitment to pixel-perfect design. Utilizing HTML 5, CSS, and Typescript, I transformed ideas into immersive user experiences. Collaborated seamlessly with the CMS team to seamlessly integrate dynamic content into the pages. Engaged with UI/UX experts, contributing to the enhancement of existing applications and bringing new design concepts to life through innovative components. Proficiently navigated a tech stack that included HTML, CSS, JavaScript, ReactJS, Material UI, Redux, and NodeJs.",
     skills: [
       "HTML",
       "CSS",
