@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/rajesh9899sh",
   resume:
-    "https://drive.google.com/file/d/1uXzvo1VKW7AjIop0XbizvejUdeSCVcmC/view?usp=sharing",
+    "https://drive.google.com/file/d/1w1sPc6Q-OcheMi7aBabQt0TpD-o0gi-e/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rajesh-sharma-955112210/",
   twitter: "https://twitter.com/RajeshShar9899",
   insta: "https://www.instagram.com/rajeshsharma989967/",
@@ -136,7 +136,7 @@ export const experiences = [
     img: "constemsAi.jpg",
     role: "Full Stack Developer",
     company: "Constems-AI",
-    date: "Oct 2023 - Current",
+    date: "May 2023 - Current",
     desc: "Elevating the digital experience as a Full Stack Developer at Constems-AI, I've pioneered the development of key modules, including an innovative ImageViewer, a powerful Reporting Tool, and custom components tailored to client specifications. Leveraging the prowess of React JS, Node JS, and MongoDB, I've crafted seamless and dynamic solutions that not only meet but exceed client expectations. My commitment extends beyond web applications—I've also actively contributed to the Constems.ai Android App, bringing my expertise to enhance its functionality. Additionally, I played a pivotal role in deploying the Phone SDK Tool, seamlessly integrating it with the Android App for an optimal user experience. Proficient in HTML, CSS, JavaScript, React JS, Material UI, Node JS, and MongoDB, I've consistently delivered high-quality solutions in a dynamic and evolving tech landscape.",
     skills: [
       "Html",
